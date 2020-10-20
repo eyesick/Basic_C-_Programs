@@ -1,0 +1,7 @@
+C:\Users\isaac\Desktop\Basic_C#_Programs\Dir\Dir\bin\Debug\Dir.exe.config
+C:\Users\isaac\Desktop\Basic_C#_Programs\Dir\Dir\bin\Debug\Dir.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\Dir\Dir\bin\Debug\Dir.pdb
+C:\Users\isaac\Desktop\Basic_C#_Programs\Dir\Dir\obj\Debug\Dir.csprojAssemblyReference.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\Dir\Dir\obj\Debug\Dir.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\Dir\Dir\obj\Debug\Dir.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\Dir\Dir\obj\Debug\Dir.pdb
