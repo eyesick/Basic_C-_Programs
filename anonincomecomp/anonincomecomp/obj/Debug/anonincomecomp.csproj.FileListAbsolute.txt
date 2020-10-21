@@ -1,0 +1,7 @@
+C:\Users\isaac\Desktop\Basic_C#_Programs\anonincomecomp\anonincomecomp\obj\Debug\anonincomecomp.csprojAssemblyReference.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\anonincomecomp\anonincomecomp\obj\Debug\anonincomecomp.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\anonincomecomp\anonincomecomp\bin\Debug\anonincomecomp.exe.config
+C:\Users\isaac\Desktop\Basic_C#_Programs\anonincomecomp\anonincomecomp\bin\Debug\anonincomecomp.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\anonincomecomp\anonincomecomp\bin\Debug\anonincomecomp.pdb
+C:\Users\isaac\Desktop\Basic_C#_Programs\anonincomecomp\anonincomecomp\obj\Debug\anonincomecomp.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\anonincomecomp\anonincomecomp\obj\Debug\anonincomecomp.pdb
