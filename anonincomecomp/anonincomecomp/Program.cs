@@ -5,7 +5,7 @@
     {
         static void Main()
         {
-        Console.WriteLine("Anonymous Income Comparison Program\n Person 1\nHourly rate");
+        Console.WriteLine("Anonymous Income Comparison Program\nPerson 1\nHourly rate");
         double p1hourly = Convert.ToDouble(Console.ReadLine());
         Console.WriteLine("Hours worked per week");
         double p1hours = Convert.ToDouble(Console.ReadLine());

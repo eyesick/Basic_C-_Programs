@@ -1,0 +1,7 @@
+C:\Users\isaac\Desktop\Basic_C#_Programs\insurence\insurence\bin\Debug\insurence.exe.config
+C:\Users\isaac\Desktop\Basic_C#_Programs\insurence\insurence\bin\Debug\insurence.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\insurence\insurence\bin\Debug\insurence.pdb
+C:\Users\isaac\Desktop\Basic_C#_Programs\insurence\insurence\obj\Debug\insurence.csprojAssemblyReference.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\insurence\insurence\obj\Debug\insurence.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\insurence\insurence\obj\Debug\insurence.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\insurence\insurence\obj\Debug\insurence.pdb
