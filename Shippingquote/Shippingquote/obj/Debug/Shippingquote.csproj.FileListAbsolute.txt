@@ -1,0 +1,7 @@
+C:\Users\isaac\Desktop\Basic_C#_Programs\Shippingquote\Shippingquote\bin\Debug\Shippingquote.exe.config
+C:\Users\isaac\Desktop\Basic_C#_Programs\Shippingquote\Shippingquote\bin\Debug\Shippingquote.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\Shippingquote\Shippingquote\bin\Debug\Shippingquote.pdb
+C:\Users\isaac\Desktop\Basic_C#_Programs\Shippingquote\Shippingquote\obj\Debug\Shippingquote.csprojAssemblyReference.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\Shippingquote\Shippingquote\obj\Debug\Shippingquote.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\Shippingquote\Shippingquote\obj\Debug\Shippingquote.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\Shippingquote\Shippingquote\obj\Debug\Shippingquote.pdb
