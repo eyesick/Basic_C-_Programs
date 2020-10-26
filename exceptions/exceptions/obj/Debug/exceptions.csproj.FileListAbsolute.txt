@@ -1,0 +1,7 @@
+C:\Users\isaac\Desktop\Basic_C#_Programs\exceptions\exceptions\obj\Debug\exceptions.csprojAssemblyReference.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\exceptions\exceptions\obj\Debug\exceptions.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\exceptions\exceptions\bin\Debug\exceptions.exe.config
+C:\Users\isaac\Desktop\Basic_C#_Programs\exceptions\exceptions\bin\Debug\exceptions.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\exceptions\exceptions\bin\Debug\exceptions.pdb
+C:\Users\isaac\Desktop\Basic_C#_Programs\exceptions\exceptions\obj\Debug\exceptions.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\exceptions\exceptions\obj\Debug\exceptions.pdb
