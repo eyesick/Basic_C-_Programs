@@ -1,0 +1,7 @@
+C:\Users\isaac\Desktop\Basic_C#_Programs\strings\strings\bin\Debug\strings.exe.config
+C:\Users\isaac\Desktop\Basic_C#_Programs\strings\strings\bin\Debug\strings.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\strings\strings\bin\Debug\strings.pdb
+C:\Users\isaac\Desktop\Basic_C#_Programs\strings\strings\obj\Debug\strings.csprojAssemblyReference.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\strings\strings\obj\Debug\strings.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\strings\strings\obj\Debug\strings.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\strings\strings\obj\Debug\strings.pdb
