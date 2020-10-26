@@ -5,11 +5,11 @@ class Program
     {
         static void Main()
         {
-        Console.WriteLine("Welcome to package Express\nPlease enter package Wieght");
+        Console.WriteLine("Welcome to package Express. Please follow the instructions below\nPlease enter package Wieght");
         double weight = Convert.ToDouble(Console.ReadLine());
         if (weight > 50)
         {
-            Console.WriteLine("Package to heavy to be shipped via Package Express\nPress enter to exit program");
+            Console.WriteLine("Package to heavy to be shipped via Package Express. Have a good day\nPress enter to exit program");
             Console.ReadLine();
             Environment.Exit(1);
         }

@@ -1,0 +1,7 @@
+C:\Users\isaac\Desktop\Basic_C#_Programs\while_and_dowhile\while_and_dowhile\bin\Debug\while_and_dowhile.exe.config
+C:\Users\isaac\Desktop\Basic_C#_Programs\while_and_dowhile\while_and_dowhile\bin\Debug\while_and_dowhile.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\while_and_dowhile\while_and_dowhile\bin\Debug\while_and_dowhile.pdb
+C:\Users\isaac\Desktop\Basic_C#_Programs\while_and_dowhile\while_and_dowhile\obj\Debug\while_and_dowhile.csprojAssemblyReference.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\while_and_dowhile\while_and_dowhile\obj\Debug\while_and_dowhile.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\while_and_dowhile\while_and_dowhile\obj\Debug\while_and_dowhile.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\while_and_dowhile\while_and_dowhile\obj\Debug\while_and_dowhile.pdb
