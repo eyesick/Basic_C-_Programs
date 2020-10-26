@@ -1,0 +1,7 @@
+C:\Users\isaac\Desktop\Basic_C#_Programs\classes\classes\bin\Debug\classes.exe.config
+C:\Users\isaac\Desktop\Basic_C#_Programs\classes\classes\bin\Debug\classes.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\classes\classes\bin\Debug\classes.pdb
+C:\Users\isaac\Desktop\Basic_C#_Programs\classes\classes\obj\Debug\classes.csprojAssemblyReference.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\classes\classes\obj\Debug\classes.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\classes\classes\obj\Debug\classes.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\classes\classes\obj\Debug\classes.pdb
