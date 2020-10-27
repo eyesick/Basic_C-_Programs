@@ -9,9 +9,10 @@ namespace voidmethod
 {
     class adjustedscore
     {
-        public static void Adjustedscore(int a, int b)
+        public void Adjustedscore(int score, int bonus)
         {
-
+            int result = score * 2;
+            Console.WriteLine(bonus);
         }
     }
 }
