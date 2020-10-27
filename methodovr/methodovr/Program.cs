@@ -17,6 +17,7 @@ namespace methodovr
             Console.WriteLine(x2);
             int secondx2 = Math.by2(input, 3.3m);
             int thirdx2 = Math.by2(x2, secondx2, "product");
-            Console.ReadLine();        }
+            Console.ReadLine();
+        }
     }
 }

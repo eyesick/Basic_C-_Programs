@@ -1,0 +1,6 @@
+C:\Users\isaac\Desktop\Basic_C#_Programs\optional\optional\bin\Debug\optional.exe.config
+C:\Users\isaac\Desktop\Basic_C#_Programs\optional\optional\bin\Debug\optional.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\optional\optional\bin\Debug\optional.pdb
+C:\Users\isaac\Desktop\Basic_C#_Programs\optional\optional\obj\Debug\optional.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\optional\optional\obj\Debug\optional.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\optional\optional\obj\Debug\optional.pdb
