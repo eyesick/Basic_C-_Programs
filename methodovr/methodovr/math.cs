@@ -25,10 +25,10 @@ namespace methodovr
 
         public int by2(int a, int b, string word)
         {
-            Convert.ToInt32(b);
+            int intword = Convert.ToInt32(word);
             int result = a * b;
             Convert.ToString(result);
-            Console.WriteLine(result + word);
+            Console.WriteLine(result + intword);
             return result;
 
 
