@@ -1,0 +1,7 @@
+C:\Users\isaac\Desktop\Basic_C#_Programs\assignment 236\assignment 236\bin\Debug\assignment 236.exe.config
+C:\Users\isaac\Desktop\Basic_C#_Programs\assignment 236\assignment 236\bin\Debug\assignment 236.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\assignment 236\assignment 236\bin\Debug\assignment 236.pdb
+C:\Users\isaac\Desktop\Basic_C#_Programs\assignment 236\assignment 236\obj\Debug\assignment 236.csprojAssemblyReference.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\assignment 236\assignment 236\obj\Debug\assignment 236.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\assignment 236\assignment 236\obj\Debug\assignment 236.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\assignment 236\assignment 236\obj\Debug\assignment 236.pdb
