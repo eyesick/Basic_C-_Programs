@@ -1,0 +1,7 @@
+C:\Users\isaac\Desktop\Basic_C#_Programs\assingment231\assingment231\bin\Debug\assingment231.exe.config
+C:\Users\isaac\Desktop\Basic_C#_Programs\assingment231\assingment231\bin\Debug\assingment231.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\assingment231\assingment231\bin\Debug\assingment231.pdb
+C:\Users\isaac\Desktop\Basic_C#_Programs\assingment231\assingment231\obj\Debug\assingment231.csprojAssemblyReference.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\assingment231\assingment231\obj\Debug\assingment231.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\assingment231\assingment231\obj\Debug\assingment231.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\assingment231\assingment231\obj\Debug\assingment231.pdb
