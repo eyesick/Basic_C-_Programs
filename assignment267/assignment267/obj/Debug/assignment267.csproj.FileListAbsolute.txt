@@ -1,0 +1,7 @@
+C:\Users\isaac\Desktop\Basic_C#_Programs\assignment267\assignment267\bin\Debug\assignment267.exe.config
+C:\Users\isaac\Desktop\Basic_C#_Programs\assignment267\assignment267\bin\Debug\assignment267.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\assignment267\assignment267\bin\Debug\assignment267.pdb
+C:\Users\isaac\Desktop\Basic_C#_Programs\assignment267\assignment267\obj\Debug\assignment267.csprojAssemblyReference.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\assignment267\assignment267\obj\Debug\assignment267.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\assignment267\assignment267\obj\Debug\assignment267.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\assignment267\assignment267\obj\Debug\assignment267.pdb
