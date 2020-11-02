@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace assignment244
 {
-    public class Employee <T> : Person, IQuittable
+    public class Employee : Person, IQuittable
     {
         public int ID;
 
-        public List<T> things = new List<T>();
+        
         public override void SayName()
         {
             Console.WriteLine("My name is");
