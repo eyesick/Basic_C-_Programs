@@ -36,6 +36,7 @@ namespace assignment244
                 Console.WriteLine(thing);
             }
             Console.ReadLine();
+
         }
     }
 }
