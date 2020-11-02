@@ -1,0 +1,7 @@
+C:\Users\isaac\Desktop\Basic_C#_Programs\Io\Io\bin\Debug\Io.exe.config
+C:\Users\isaac\Desktop\Basic_C#_Programs\Io\Io\bin\Debug\Io.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\Io\Io\bin\Debug\Io.pdb
+C:\Users\isaac\Desktop\Basic_C#_Programs\Io\Io\obj\Debug\Io.csprojAssemblyReference.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\Io\Io\obj\Debug\Io.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\Io\Io\obj\Debug\Io.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\Io\Io\obj\Debug\Io.pdb
