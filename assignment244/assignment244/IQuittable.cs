@@ -8,5 +8,8 @@ namespace assignment244
 {
     interface IQuittable
     {
+        void Quit();
+         
+        
     }
 }
