@@ -1,4 +1,5 @@
 ﻿using System;
+using System.CodeDom;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,11 @@ namespace constructorcahin
     {
         static void Main(string[] args)
         {
+            var first = "bob";
+            const string last = "smith";
+            Person a = new Person(12, first, last);
+            
+
         }
     }
 }
