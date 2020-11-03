@@ -1,4 +1,3 @@
-C:\Users\isaac\Desktop\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
 C:\Users\isaac\Desktop\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
 C:\Users\isaac\Desktop\Basic_C#_Programs\TwentyOne\Casino\bin\Debug\Casino.dll
 C:\Users\isaac\Desktop\Basic_C#_Programs\TwentyOne\Casino\bin\Debug\Casino.pdb

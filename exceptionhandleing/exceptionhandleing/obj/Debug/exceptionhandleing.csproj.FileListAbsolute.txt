@@ -1,0 +1,6 @@
+C:\Users\isaac\Desktop\Basic_C#_Programs\exceptionhandleing\exceptionhandleing\bin\Debug\exceptionhandleing.exe.config
+C:\Users\isaac\Desktop\Basic_C#_Programs\exceptionhandleing\exceptionhandleing\bin\Debug\exceptionhandleing.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\exceptionhandleing\exceptionhandleing\bin\Debug\exceptionhandleing.pdb
+C:\Users\isaac\Desktop\Basic_C#_Programs\exceptionhandleing\exceptionhandleing\obj\Debug\exceptionhandleing.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Basic_C#_Programs\exceptionhandleing\exceptionhandleing\obj\Debug\exceptionhandleing.exe
+C:\Users\isaac\Desktop\Basic_C#_Programs\exceptionhandleing\exceptionhandleing\obj\Debug\exceptionhandleing.pdb

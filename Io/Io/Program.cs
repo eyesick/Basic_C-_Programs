@@ -45,15 +45,17 @@ namespace Io
             private string last;
             private string first;
 
-            public person(string lastName, string firstName)
+            public person()
             {
-                last = lastName;
-                first = firstName;
+                this.first = "no";
+                this.last = "name";
             }
 
-            public person() : this()
+            public person(string lastName, string firstName) : this()
             {
-                
+
+                this.last = lastName;
+                this.first = firstName;
             }
         }
     }
