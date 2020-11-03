@@ -4,13 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using Casino;
+using Casino.Twentyone;
 
 namespace TwentyOne
 {
     class Program
     {
         static void Main(string[] args)
-        {
+        {   
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
             string playername = Console.ReadLine();
             Console.WriteLine("And how much money did you bring today");
@@ -20,6 +22,11 @@ namespace TwentyOne
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer =="ya")
             {
                 Player player = new Player(playername, bank);
+                player.id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\isaac\Documents\logs.txt", true))
+                {
+                    file.WriteLine(player.id);
+                }
                 Game game = new TwentyOne_Game();
                 game += player;
                 player.isActivelyplayting = true;
