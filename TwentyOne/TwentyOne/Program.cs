@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using System.IO;
 using Casino;
 using Casino.Twentyone;
+using System.Data.SqlClient;
+using System.Data;
 
 namespace TwentyOne
 {
@@ -16,7 +18,20 @@ namespace TwentyOne
             const string casinoName = "Grand Hotel and Casino";
             Console.WriteLine("Welcome to the {0}. Let's start by telling me your name.", casinoName);
             string playername = Console.ReadLine();
-
+            if (playername.ToLower() == "admin")
+            {
+                List<ExceptionEntity> exceptions = ReadExceptions();
+                foreach (var exception in exceptions)
+                {
+                    Console.Write(exception.id+ " | ");
+                    Console.Write(exception.ExceptionType + " | ");
+                    Console.Write(exception.ExceptionMessage + " | ");
+                    Console.Write(exception.TimeStamp + " | ");
+                    Console.WriteLine();
+                }
+                Console.ReadLine();
+                return;
+            }
             bool validAnswer = false;
             int bank = 0;
             while (!validAnswer)
@@ -48,15 +63,17 @@ namespace TwentyOne
                     {
                         game.Play();
                     }
-                    catch (Fraudexception)
+                    catch (Fraudexception ex)
                     {
-                        Console.WriteLine("Security kick this person out");
+                        Console.WriteLine(ex.Message);
+                        UpdateDbWithException(ex);
                         Console.ReadLine();
                         return;
                     }
-                    catch(Exception)
+                    catch(Exception ex)
                     {
                         Console.WriteLine("An error occured. Please contact your system admin");
+                        UpdateDbWithException(ex);
                         Console.ReadLine();
                         return;
                     }
@@ -66,6 +83,34 @@ namespace TwentyOne
             }
             Console.WriteLine("Feel free to look around the casino. Bye for now");
             Console.ReadLine();
+        }
+
+        private static void UpdateDbWithException(Exception ex)
+        {
+            string connectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=TwentyOneGame;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+
+            string queryString = @"INSERT INTO Exceptions (ExceptionType, ExceptionMessage, TimeStamp) VALUES (@ExceptionType, @ExceptionMessage, @TimeStamp)";
+
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                SqlCommand command = new SqlCommand(queryString, connection);
+                command.Parameters.Add("@ExceptionType", SqlDbType.VarChar);
+                command.Parameters.Add("@ExceptionMessage", SqlDbType.VarChar);
+                command.Parameters.Add("@TimeStamp", SqlDbType.DateTime);
+
+                command.Parameters["@ExceptionType"].Value = ex.GetType().ToString();
+                command.Parameters["@ExceptionMessage"].Value = ex.Message;
+                command.Parameters["@TimeStamp"].Value = DateTime.Now;
+
+                connection.Open();
+                command.ExecuteNonQuery();
+                connection.Close();
+            }
+        }
+
+        private static List<ExceptionEntity> ReadExceptions()
+        {
+            string connectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=TwentyOneGame;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
         }
     }
 }

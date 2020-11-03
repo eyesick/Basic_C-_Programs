@@ -35,7 +35,7 @@ namespace Casino.Twentyone
                 }
                 if(bet < 0  )
                 {
-                    throw new Fraudexception();
+                    throw new Fraudexception("Security throw this person out");
                 }
                
                 bool suscessfullybet = player.Bet(bet);
